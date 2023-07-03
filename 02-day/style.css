@@ -1,0 +1,19 @@
+p {
+  font-family: Cambria;
+  text-align: center;
+  font-size: medium;
+  color: yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: rgb(red, green, blue);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
