@@ -17,3 +17,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+#TODAYS_CHALLENGE {
+  color: brown;
+}
