@@ -18,6 +18,12 @@ a:hover {
   text-decoration: underline;
 }
 
-#TODAYS_CHALLENGE {
+#todays_challenge {
   color: brown;
+  font-weight: 300;
+  font-size: medium;
+}
+
+#nock_nock {
+  color: azure;
 }
