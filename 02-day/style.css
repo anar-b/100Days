@@ -6,8 +6,10 @@ p {
 }
 
 h1 {
-  text-align: center;
+  font-size: x-large;
+  color: red;
 }
+/* text-align: center; */
 
 a {
   color: rgb(red, green, blue);
